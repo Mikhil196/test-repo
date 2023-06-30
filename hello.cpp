@@ -3,5 +3,5 @@ using namespace std;
 int main()
 {
     int a = 5, b = 10;
-    cout << "hello from master" << endl;
+    cout << "hello from cpp branch" << endl;
 }
